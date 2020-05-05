@@ -11,3 +11,12 @@ require("channels")
 //bootstrap
 import 'bootstrap'
 import 'bootstrap/dist/css/bootstrap.min.css'
+
+//jquery
+import $ from 'jquery'
+window.$ = $
+
+//select2
+
+import 'select2'
+import 'select2/dist/css/select2.min.css'
